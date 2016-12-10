@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ddesolver">
+</Property><Property Name="Solution File" Value="C:\Users\Alex\Documents\diplom\src\ddesolver\ddesolver\ddesolver.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Alex\Documents\diplom\src\ddesolver\ddesolver\ddesolver.suo">
+</Property><Property Name="Date" Value="Wednesday, May 21, 2014">
+</Property><Property Name="Time" Value="14:34 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ddesolver.sln" Description="File successfully backed up as C:\Users\Alex\Documents\diplom\src\ddesolver\backup\Backup\ddesolver.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ddesolver.suo" Description="File successfully backed up as C:\Users\Alex\Documents\diplom\src\ddesolver\backup\Backup\ddesolver.suo">
+</Event><Event ErrorLevel="0" Project="ddesolver" Source="ddesolver.csproj" Description="Project file successfully backed up as C:\Users\Alex\Documents\diplom\src\ddesolver\backup\Backup\ddesolver.csproj">
+</Event><Event ErrorLevel="0" Project="ddesolver" Source="comparer.cs" Description="File successfully backed up as C:\Users\Alex\Documents\diplom\src\ddesolver\backup\Backup\comparer.cs">
+</Event><Event ErrorLevel="0" Project="ddesolver" Source="MainForm.cs" Description="File successfully backed up as C:\Users\Alex\Documents\diplom\src\ddesolver\backup\Backup\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="ddesolver" Source="MainForm.Designer.cs" Description="File successfully backed up as C:\Users\Alex\Documents\diplom\src\ddesolver\backup\Backup\MainForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ddesolver" Source="methods.cs" Description="File successfully backed up as C:\Users\Alex\Documents\diplom\src\ddesolver\backup\Backup\methods.cs">
+</Event><Event ErrorLevel="0" Project="ddesolver" Source="Program.cs" Description="File successfully backed up as C:\Users\Alex\Documents\diplom\src\ddesolver\backup\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="ddesolver" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Alex\Documents\diplom\src\ddesolver\backup\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ddesolver" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\Alex\Documents\diplom\src\ddesolver\backup\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ddesolver" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\Alex\Documents\diplom\src\ddesolver\backup\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ddesolver" Source="Properties\Settings.settings" Description="File successfully backed up as C:\Users\Alex\Documents\diplom\src\ddesolver\backup\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ddesolver" Source="MainForm.resx" Description="File successfully backed up as C:\Users\Alex\Documents\diplom\src\ddesolver\backup\Backup\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="ddesolver" Source="Properties\Resources.resx" Description="File successfully backed up as C:\Users\Alex\Documents\diplom\src\ddesolver\backup\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="ddesolver" Source="ddesolver.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ddesolver" Source="ddesolver.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ddesolver.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ddesolver.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ddesolver" Source="ddesolver.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

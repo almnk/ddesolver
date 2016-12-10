@@ -1,0 +1,27 @@
+C:\Users\Alex\Documents\Visual Studio 2008\Projects\ddesolver\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2008\Projects\ddesolver\obj\Debug\ddesolver.MainForm.resources
+C:\Users\Alex\Documents\Visual Studio 2008\Projects\ddesolver\obj\Debug\ddesolver.Properties.Resources.resources
+C:\Users\Alex\Documents\Visual Studio 2008\Projects\ddesolver\obj\Debug\ddesolver.csproj.GenerateResource.Cache
+C:\Users\Alex\Documents\Visual Studio 2008\Projects\ddesolver\bin\Debug\ddesolver.exe
+C:\Users\Alex\Documents\Visual Studio 2008\Projects\ddesolver\bin\Debug\ddesolver.pdb
+C:\Users\Alex\Documents\Visual Studio 2008\Projects\ddesolver\obj\Debug\ddesolver.exe
+C:\Users\Alex\Documents\Visual Studio 2008\Projects\ddesolver\obj\Debug\ddesolver.pdb
+C:\Users\Alex\Documents\Visual Studio 2008\Projects\ddesolver\bin\Debug\ZedGraph.dll
+C:\Users\Alex\Downloads\kursach\src\ddesolver\obj\Debug\ddesolver.exe
+C:\Users\Alex\Downloads\kursach\src\ddesolver\obj\Debug\ddesolver.pdb
+C:\Users\Alex\Downloads\kursach\src\ddesolver\bin\Debug\ddesolver.exe
+C:\Users\Alex\Downloads\kursach\src\ddesolver\bin\Debug\ddesolver.pdb
+C:\Users\Alex\Downloads\kursach\src\ddesolver\bin\Debug\ZedGraph.dll
+C:\Users\Alex\Downloads\kursach\src\ddesolver\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex\Downloads\kursach\src\ddesolver\obj\Debug\ddesolver.MainForm.resources
+C:\Users\Alex\Downloads\kursach\src\ddesolver\obj\Debug\ddesolver.Properties.Resources.resources
+C:\Users\Alex\Downloads\kursach\src\ddesolver\obj\Debug\ddesolver.csproj.GenerateResource.Cache
+C:\Users\Alex\Documents\diplom\src\ddesolver\ddesolver\obj\Debug\ddesolver.exe
+C:\Users\Alex\Documents\diplom\src\ddesolver\ddesolver\obj\Debug\ddesolver.pdb
+C:\Users\Alex\Documents\diplom\src\ddesolver\ddesolver\bin\Debug\ddesolver.exe
+C:\Users\Alex\Documents\diplom\src\ddesolver\ddesolver\bin\Debug\ddesolver.pdb
+C:\Users\Alex\Documents\diplom\src\ddesolver\ddesolver\bin\Debug\ZedGraph.dll
+C:\Users\Alex\Documents\diplom\src\ddesolver\ddesolver\obj\Debug\ddesolver.MainForm.resources
+C:\Users\Alex\Documents\diplom\src\ddesolver\ddesolver\obj\Debug\ddesolver.Properties.Resources.resources
+C:\Users\Alex\Documents\diplom\src\ddesolver\ddesolver\obj\Debug\ddesolver.csproj.GenerateResource.Cache
+C:\Users\Alex\Documents\diplom\src\ddesolver\ddesolver\obj\Debug\ddesolver.csprojResolveAssemblyReference.cache

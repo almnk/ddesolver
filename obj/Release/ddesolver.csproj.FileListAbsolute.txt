@@ -1,0 +1,8 @@
+C:\Users\Alex\Documents\diplom\src\ddesolver\ddesolver\bin\Release\ddesolver.exe
+C:\Users\Alex\Documents\diplom\src\ddesolver\ddesolver\bin\Release\ddesolver.pdb
+C:\Users\Alex\Documents\diplom\src\ddesolver\ddesolver\bin\Release\ZedGraph.dll
+C:\Users\Alex\Documents\diplom\src\ddesolver\ddesolver\obj\Release\ddesolver.MainForm.resources
+C:\Users\Alex\Documents\diplom\src\ddesolver\ddesolver\obj\Release\ddesolver.Properties.Resources.resources
+C:\Users\Alex\Documents\diplom\src\ddesolver\ddesolver\obj\Release\ddesolver.csproj.GenerateResource.Cache
+C:\Users\Alex\Documents\diplom\src\ddesolver\ddesolver\obj\Release\ddesolver.exe
+C:\Users\Alex\Documents\diplom\src\ddesolver\ddesolver\obj\Release\ddesolver.pdb
